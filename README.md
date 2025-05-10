@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.postimg.cc/gjFVM0V7/validax.png" alt="Validax Logo" />
+  <img height="150" src="https://i.postimg.cc/gjFVM0V7/validax.png" alt="Validax Logo" />
 </div>
 
 <div align="center">
